@@ -25,6 +25,20 @@ Each sample contains:
 
 ---
 
+# Dataset Download
+
+The dataset used in this project is available on Kaggle:
+
+🔗 https://www.kaggle.com/datasets/abdelhady22/deep-learning-project-1m
+
+You can download the dataset manually or use the Kaggle API.
+
+Example:
+
+```bash
+kaggle datasets download -d abdelhady22/deep-learning-project-1m
+```
+
 # Preprocessing
 
 The preprocessing pipeline includes:
